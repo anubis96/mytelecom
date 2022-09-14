@@ -280,9 +280,10 @@ div.mega-menu-item{
     float: left;
     width: 330px;
 }
-.about-big .about-image-left img{
+.about-big .about-image-left img {
+    position: relative;
     display: inline-block;
-    margin-left: 40%;
+    margin-left: 20%;
     margin-top: 10%;
     width: 100%;
 }
