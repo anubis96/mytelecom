@@ -104,6 +104,44 @@ header {
     padding: 10px;
     box-shadow: 0 0 25px -3px rgba(0, 0, 0, 0.4)
 }
+.boutiques{
+    margin-left: 150px;
+    width: 75%;
+    margin-top: 10px;
+    height: auto;
+    background-color: white;
+    border-radius: 2px;
+    padding-bottom: 2px;
+    color: rgb(54, 53, 53);
+    text-decoration: none;
+    padding: 10px;
+    box-shadow: 0 0 25px -3px rgba(0, 0, 0, 0.4)
+}
+.boutique_flex{
+    display: flex;
+}
+.boutique_bebe{
+    display: inline-block;
+    font-family: 'Calibri light';
+    background-color: rgb(146, 57, 119);
+    text-decoration: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 12px 34px;
+    font-size: 10px;
+    cursor: pointer;
+    transition: all 0.2s linear 0s;
+}
+.masque{
+    padding-top: 10px;
+    display: inline-block;
+    border-radius: 50%;
+    width: 50px;
+    height: 40px;
+    background-color: rgb(99, 155, 10);
+    box-shadow: 0 0 25px -3px rgba(0, 0, 0, 0.4);
+    transition: all 0.2s linear 0s;
+}
 .contour{
     display: inline-block;
     border-radius: 50%;
