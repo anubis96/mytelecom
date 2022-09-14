@@ -1,0 +1,57 @@
+
+.title-ip{
+    position: relative;
+    margin-top: -500px;
+    margin-left: 60%;
+    margin-right: 10%;
+    width: 420px;
+    height: 100px;
+}
+
+.title-ip>p {
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+.descriptions{
+    font-size: 25px;
+    margin-top: 230px;
+    color: rgb(71, 71, 71);
+    padding-right: 150px;
+    padding-left: 150px;
+    font-weight: lighter;
+}
+@media screen and (max-width: 701px) {
+    .title-ip{
+        position: relative;
+        margin-top: 10px;
+        margin-left: 10%;
+        width: 420px;
+        height: 100px;
+    }
+    
+    .title-ip>p {
+        font-size: 40px;
+        font-weight: bold;
+        color: black;
+    }
+    .descriptions {
+        margin-top: 0;
+        padding-right: 10px;
+        padding-left: 10px;
+        font-weight: lighter;
+    }
+    .description>p {
+        display: block;
+        font-size: 10px;
+        margin-top: 230px;
+        color: rgb(71, 71, 71);
+    }    
+    .intercon img{
+        width: 200px;
+    }
+    .ress img{
+        width: 400px;
+    }
+    
+}

@@ -1,0 +1,20 @@
+@media screen and (max-width: 701px) {
+    .title-ip h1 {
+        font-size: 30px;
+        font-weight: bold;
+        color: white;
+    }
+    .descriptions {
+        margin-top: 230px;
+        padding-right: 10px;
+        padding-left: 10px;
+        font-weight: lighter;
+    }
+    .description>p {
+        display: block;
+        font-size: 10px;
+        margin-top: 230px;
+        color: rgb(71, 71, 71);
+        }    
+    
+}
