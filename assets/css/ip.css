@@ -21,6 +21,20 @@
     padding-left: 150px;
     font-weight: lighter;
 }
+.ip_images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+._one img{
+    width: 380px;
+    box-shadow: 0 0 25px -3px rgba(0, 0, 0, 0.4);
+}
+._two img{
+    width: 580px;
+    box-shadow: 0 0 25px -3px rgba(0, 0, 0, 0.4)
+}
 @media screen and (max-width: 701px) {
     .title-ip{
         position: relative;
