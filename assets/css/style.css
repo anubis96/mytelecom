@@ -66,6 +66,7 @@ header {
     margin-right: 10%;
     width: 500px;
     height: 100px;
+    color: #911707;
 }
 .title-ip h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -732,5 +733,12 @@ div.mega-menu-item{
     }
     footer p{
         font-size: 15px;
+    }
+        .boutiques{
+        margin-left: 50px;
+        width: 80%;
+    }
+    .boutique_flex{
+        display: block;
     }
 }
