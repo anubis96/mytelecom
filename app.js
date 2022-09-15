@@ -1,5 +1,5 @@
 let image = document.getElementById('image_flottant');
-var images = ['lan.png', 'network.png', 'windowsusers.webp'];
+var images = ['lan.png', 'network.png', 'windowsusers.webp', 'files.jpg'];
 
 setInterval(function(){
     let random = Math.floor(Math.random() * 3);
